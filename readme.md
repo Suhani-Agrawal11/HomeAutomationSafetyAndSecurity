@@ -7,4 +7,4 @@ I am a web developer enthusiast, looking forward to expand my knowledge. I am op
 
 You can contact me at agrawalsuhani1110@gmail.com
 
-My CV : https://drive.google.com/file/d/1Et7g2BW8ynk4Nou_FkVexvNa6scs8JBF/view?usp=share_link
+My CV : https://drive.google.com/drive/folders/1xVVXcwB6BtCAPNRoorovWnA7aFd91vmD?usp=sharing
