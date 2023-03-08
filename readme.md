@@ -1,4 +1,5 @@
-Developed by: Shreshth Verma and Suhani Agrawal
+Developed by: Suhani Agrawal and Shreshth Verma
+
 Project Report : https://drive.google.com/drive/folders/1C6k8fHGVNIsegLyt6DOx_ZAy-YvTcHep?usp=sharing
 
 Hey, Myself Suhani Agrawal
