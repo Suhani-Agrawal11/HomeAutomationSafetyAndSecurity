@@ -1,12 +1,13 @@
-Developed by: Suhani Agrawal and Shreshth Verma
+# Home Automation , Safety And Security Webapp
+
+## Developed by: Suhani Agrawal and Shreshth Verma
 
 Project Report : https://drive.google.com/drive/folders/1C6k8fHGVNIsegLyt6DOx_ZAy-YvTcHep?usp=sharing
 
-Project Glimpse :
+## Project Glimpse :
 
-![WhatsApp Image 2023-01-13 at 13 30 57](https://user-images.githubusercontent.com/115228834/231253123-5264acb8-1f73-45e4-a7dc-7b11334d15ae.jpg)
-![WhatsApp Image 2023-01-13 at 13 31 53](https://user-images.githubusercontent.com/115228834/231253156-d8f4a446-3d7d-44b5-8e17-9b277fa97891.jpg)
-![a](https://user-images.githubusercontent.com/115228834/231253464-d5a377a7-837c-4467-b6e9-41cc1b11aa19.jpg)
+![WhatsApp Image 2023-04-12 at 12 40 57](https://user-images.githubusercontent.com/115228834/231379719-71dbc15d-c523-4916-bc9e-a42429a3689b.jpg)
+
 
 
 Hey, Myself Suhani Agrawal
